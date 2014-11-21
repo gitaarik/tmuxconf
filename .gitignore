@@ -1,1 +1,3 @@
 .tmux/resurrect/*
+tmux-client-*.log
+tmux-server-*.log
